@@ -1,6 +1,6 @@
 ---
 apps:
  - https://google.com
- - www.twittercom
+ - https://twitter.com
 webhook: https://outlook.office.com/webhook/<Identifier gues here>
 ...
